@@ -1,7 +1,7 @@
 export const SITE = {
-  website: "https://mingo-blog-seven.vercel.app/", // replace this with your deployed domain
+  website: "https://DDDDDomingo.github.io/", // replace this with your deployed domain
   author: "mingo.blog",
-  profile: "https://mingo-blog-seven.vercel.app/",
+  profile: "https://DDDDDomingo.github.io/",
   desc: "Hello, everyone! Welcome to my personal blog. In this blog, I will be writing about my projects (what I do/how I did), my personal experiences, and some random stuffs.",
   title: "mingo.blog",
   ogImage: "astropaper-og.jpg",
